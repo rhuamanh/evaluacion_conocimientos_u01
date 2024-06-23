@@ -13,7 +13,7 @@ int main (){
 	cout<<sum<<endl;
 	return 0;
 }
-
+//funcion para sumar 
 int suma(int a){
 	int s, i;
 	s=0;
@@ -22,7 +22,7 @@ int suma(int a){
 	}
 	return s;
 }
-
+//funcion para calcular el factorial
 int factorial(int b){
 	int f, i;
 	f=1;
